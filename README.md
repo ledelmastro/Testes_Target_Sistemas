@@ -10,6 +10,10 @@
    Caso precise de instruções para clonar o repositório para sua máquina, você pode encontrar um bom tutorial em
    https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository;
 
+☑️ 3. Caso prefira, você também pode rodar o arquivo python desta aplicação fazendo o download deste repositório em zip, e descompactando o arquivo em sua máquina local.
+
+Instruções para clonar o repositório:
+
 Clone o projeto  ↪️
 ~~~ bash  
   git clone https://github.com/ledelmastro/Testes_Target_Sistemas
